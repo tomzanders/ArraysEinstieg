@@ -1,0 +1,15 @@
+private int[] einzahlungsliste = new int[4]
+
+a) Wie viele Elemente hat dieses Array?
+    4
+
+b) Welchen index-Wert hat das erste Element?
+    0
+
+c) Welchen index-Wert hat das vierte Element?
+    3
+
+d) Legen Sie ein double-Array einzahlungsliste als Attribut in einer Klasse Sparbuch an und weisen sie die Werte zu,
+   testen Sie zwei verschiedene Möglichkeiten der Wertzuweisung:
+   - new (Init im Konstruktor)
+   - direkte Init. bei der Deklarierung
